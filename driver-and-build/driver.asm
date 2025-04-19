@@ -111,7 +111,7 @@ SCODE_TO_ASCII:
     CMP AL, 0x2C    
     JE Z
     
-    XOR AH, AH          ; If no match, return 0 (no character)
+    XOR AH, AH          
     RET
 
 A:
