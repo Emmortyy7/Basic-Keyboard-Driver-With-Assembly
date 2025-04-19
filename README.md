@@ -1,2 +1,2 @@
 # Basic-Keyboard-Driver-With-Assembly
-Sımple keyboard driver.
+Simple keyboard driver.
